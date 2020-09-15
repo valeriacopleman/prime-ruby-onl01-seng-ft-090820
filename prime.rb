@@ -1,3 +1,4 @@
 def prime_numbers(n)
-  n.prime?(n) 
+  n.prime?(number) 
+end
   
